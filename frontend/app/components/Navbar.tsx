@@ -15,7 +15,7 @@ export default function Navbar() {
 
         <div className="flex flex-col leading-tight">
           <h1 className="text-xl font-bold tracking-wide text-[#c74b8c]">
-            DHARAMITRA
+            DharaMitra
           </h1>
           <p className="text-xs tracking-widest text-[#d27cab]">
             YOUR COMPANION IN HEALING
